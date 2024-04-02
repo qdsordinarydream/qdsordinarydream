@@ -1,4 +1,4 @@
 - 👋 Hi, I’m dongsheng
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning english
+- 🌱 I’m currently learning ai
 - 📫 1173589145@qq.com
